@@ -36,6 +36,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Spades-Ace/count.svg?"  />
+  <script src="https://tryhackme.com/badge/623986"></script>
 </div>
 
 ###
