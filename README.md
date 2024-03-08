@@ -87,7 +87,7 @@
 
 <div align="center">
   
- [![Discord Presence](https://lanyard.cnrad.dev/api/501716353867055134)](https://discord.com/users/501716353867055134)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/501716353867055134??theme=dark&bg=5d3fd3&idleMessage=Studying%20the%20secrets%20of%20cybersecurity%20while%20my%20code%20compiles....)](https://discord.com/users/501716353867055134)
  
 </div>
 
