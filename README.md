@@ -86,6 +86,14 @@
 ###
 
 <div align="center">
+  
+ [![Discord Presence](https://lanyard.cnrad.dev/api/501716353867055134)](https://discord.com/users/501716353867055134)
+ 
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://media.tenor.com/UaeeEEuyVKkAAAAC/dedsec-art.gif"  />
 </div>
 
