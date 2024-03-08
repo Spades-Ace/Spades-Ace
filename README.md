@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ace</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kablammo&pause=1000&color=5D3FD3&random=false&width=435&lines=%24whoami.......;-------%3EExAce)](https://git.io/typing-svg)
 
 ###
 
